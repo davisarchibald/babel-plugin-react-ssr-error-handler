@@ -1,1 +1,1 @@
-# babel-plugin-ssr-try-catch
+# babel-plugin-react-ssr-error-handler
